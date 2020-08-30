@@ -7,8 +7,9 @@
             "test": "jest --collectCoverage=false"
       },
       "devDependencies": {
+            "babel-preset-env": "^1.7.0",
             "eslint": "^4.13.1",
-            "jest": "^22.0.3"
+            "jest": "^22.4.4"
       },
       "author": "Henry",
       "license": "ISC",
