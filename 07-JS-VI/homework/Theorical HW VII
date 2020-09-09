@@ -1,0 +1,1 @@
+* Callbacks: Callbacks es una herramienta que nos permite programar un infinito de posibilidades. Una funcion como ya fue definido antes consiste en un programa que ejecuta una tarea que nosotros le indiquemos, un callback nos permite meter una funcion dentro de otra funcion como argumento. 
